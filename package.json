@@ -17,6 +17,7 @@
     "redux-thunk": "^2.1.0"
   },
   "scripts": {
+    "pscid:build": "pulp --watch --psc-package build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "eject": "react-scripts eject",
